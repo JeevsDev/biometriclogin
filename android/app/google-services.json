@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204323641418",
+    "project_id": "biometriclogin-55da8",
+    "storage_bucket": "biometriclogin-55da8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204323641418:android:19f87ebd494239ef8deeb3",
+        "android_client_info": {
+          "package_name": "com.example.biometriclogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpaMzNohOk5yrevZ-YhUNGeHdeSAXkgUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
