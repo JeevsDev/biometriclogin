@@ -1,16 +1,11 @@
 # biometriclogin
 
-A new Flutter project.
+A Flutter project that demonstrates traditional authentication practices like sign up and login along with an option for using on-device biometrics for logging in.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone the project and you're set to rock!
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Questions?? Mail me @ jeevandevasiajohn@gmail.com ✌️
